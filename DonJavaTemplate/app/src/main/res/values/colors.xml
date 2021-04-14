@@ -7,4 +7,32 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="color_button_text_pre">#B3363c56</color>
+    <color name="color_button_text_nor">#363c56</color>
+    <color name="color_button_text_white_pre">#B3ffffff</color>
+    <color name="color_button_text_white_nor">#ffffff</color>
+
+    <color name="color_000000">#000000</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_ffffff_op_30">#4dffffff</color>
+    <color name="color_ffffff_op_70">#b2ffffff</color>
+    <color name="color_f4f7fb">#f4f7fb</color>
+    <color name="color_363c56">#363c56</color>
+    <color name="color_363c56_op_54">#8A363c56</color>
+    <color name="color_363c56_op_30">#4d363c56</color>
+    <color name="color_363c56_op_70">#b2363c56</color>
+    <color name="color_1d2835">#1d2835</color>
+    <color name="color_1d2835_op_54">#8A1d2835</color>
+    <color name="color_8e939a">#8e939a</color>
+    <color name="color_8e939a_op_50">#808e939a</color>
+    <color name="color_d8d8d8">#d8d8d8</color>
+    <color name="color_fe777b">#fe777b</color>
+    <color name="color_f3f5f7">#f3f5f7</color>
+    <color name="color_e0e3e6">#e0e3e6</color>
+    <color name="color_eaebee">#eaebee</color>
+    <color name="color_779afe">#779afe</color>
+    <color name="color_96b3ff">#96b3ff</color>
+    <color name="color_96b3ff_op_30">#4d96b3ff</color>
+    <color name="color_ff9699">#ff9699</color>
+    <color name="color_d8dde2">#d8dde2</color>
 </resources>

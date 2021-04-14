@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.donjavatemplate">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -16,6 +18,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    </application>
 
+
+        <!-- 리사이클러 뷰 모음  -->
+        <activity
+            android:name=".recyclerview.deafult.DeafultRecyclerViewActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- 기본 리사이클러 뷰  -->
+        <activity
+            android:name=".recyclerview.RecyclerViewBase"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+    </application>
 </manifest>
